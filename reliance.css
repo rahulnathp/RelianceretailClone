@@ -1,0 +1,33 @@
+.image1{
+    position: relative;
+    width: 100;
+ 
+}
+   
+.text1{
+    position: absolute;
+    color: white;
+    background-color:rgba(49, 49, 170, 0.74);;
+    margin-top: -28%;
+    margin-left: 15%;
+    padding: 2%;
+}
+.text1a{
+    font-weight: lighter;
+    font-size: smaller;
+}
+
+.card{
+    background-color: rgb(233, 230, 230);
+    
+}
+.card:hover{
+    border: 5px;
+    border-color: solid red;  
+}
+  .account{
+    margin-left: 43%;   
+  }
+  .sign{
+    margin-left: 43%;
+  }
